@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:/log\\.md$/",
+      "color": {
+        "a": 1,
+        "rgb": 15356755
+      }
+    },
+    {
+      "query": "file:/index\\.md$/",
+      "color": {
+        "a": 1,
+        "rgb": 15356755
+      }
+    },
+    {
+      "query": "path:Source  ",
+      "color": {
+        "a": 1,
+        "rgb": 3268010
+      }
+    },
+    {
+      "query": "path:Wiki  ",
+      "color": {
+        "a": 1,
+        "rgb": 13446861
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.01875,
+  "lineSizeMultiplier": 1.22291666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 14.1666666666667,
+  "linkStrength": 1,
+  "linkDistance": 108,
+  "scale": 0.5087618855792662,
+  "close": false
+}
