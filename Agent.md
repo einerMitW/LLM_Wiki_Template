@@ -40,5 +40,5 @@ for reference look at: @./Context/Insert_Workflow.md
 ## Question answering
 for reference look at: @./Context/Question_Workflow.md
 
-## Lint
-for reference look at: @./Context/Lint_Workflow.md
+## Audit
+for reference look at: @./Context/Audit_Workflow.md

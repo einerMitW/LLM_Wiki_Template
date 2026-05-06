@@ -12,3 +12,8 @@ For a nice view you can import this folder as an Obsidian vault. Graph view colo
 # Setup
 Simply link the Agent.md file in your Agent's context file (CLAUDE.md, GEMINI.md) in the root directory. Agent.md provides all context needed to execute the wiki workflow. 
 Additionally, you could setup custom commands with the provided workflows in `Context/`.
+
+# Use 
+Load every Transcript, Pdf ore sourcefyle in `Source` and ask your Agend to insert it in to the knowledge graph.
+Over time the knowlede Graph will grow and topics will Synthesize across sources. Now you can ask questions against the graph. To test if the graph conventions are implemented as wanted you can write auditreports and correct them.  
+The knowledge is build independet of Agent use and human readabel saved as .md fiele.
